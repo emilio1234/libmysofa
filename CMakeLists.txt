@@ -49,5 +49,6 @@ if(BUILD_TESTS)
 endif(BUILD_TESTS)
 
 add_subdirectory(src)
+add_subdirectory(python)
 
 INCLUDE(CPack)
