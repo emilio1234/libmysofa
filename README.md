@@ -1,5 +1,9 @@
 # libmysofa
 
+## Contribution
+This is a simple python wrapper to libmysofa
+
+
 ## Introduction
 
 This is a simple set of C functions to read AES SOFA files, if they contain HRTFs
